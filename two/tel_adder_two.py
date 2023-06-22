@@ -1,6 +1,5 @@
-#!/bin/env python3
-# (c) @YourUsername
-# Telegram Group: http://t.me/your_group
+# (c) @Levi-Chinecherem
+# Telegram: http://t.me/@SemanticDev
 # Please give me credits if you use any codes from here.
 
 from telethon.sync import TelegramClient

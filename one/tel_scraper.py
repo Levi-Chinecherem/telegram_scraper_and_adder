@@ -1,3 +1,7 @@
+# (c) @Levi-Chinecherem
+# Telegram: http://t.me/@SemanticDev
+# Please give me credits if you use any codes from here.
+
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
